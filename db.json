@@ -1,7 +1,7 @@
 {
   "videos": [
 	{
-		"id": "0",
+		"id": 0,
 		"url": "https://youtube.com/shorts/dl_wtssa9vU?si=OU5hYeh9Oxqsouif",
 		"user": "cernev",
 		"platform": "shorts",
@@ -12,7 +12,7 @@
 		"createdAt": "2024-07-07T22:54:30.203788887"
 	},
 	{
-		"id": "1",
+		"id": 1,
 		"url": "https://youtube.com/shorts/ME3LdIOhBTM?si=r-jsyA78_-dbGUe3",
 		"user": "cernev",
 		"platform": "shorts",
@@ -23,7 +23,7 @@
 		"createdAt": "2024-07-25T08:09:45.806198422"
 	},
 	{
-		"id": "2",
+		"id": 2,
 		"url": "https://youtube.com/shorts/IvlVVPAZ3r4?si=IaQEWhelvWmrLdk2",
 		"user": "cernev",
 		"platform": "shorts",
@@ -34,7 +34,7 @@
 		"createdAt": "2024-07-07T22:59:04.473824243"
 	},
 	{
-		"id": "3",
+		"id": 3,
 		"url": "https://vm.tiktok.com/ZMrQUaRAd/",
 		"user": "cernev",
 		"platform": "tiktok",
